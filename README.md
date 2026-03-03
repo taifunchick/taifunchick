@@ -28,16 +28,15 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 **Основные направления в Unity**  
-- 2D/3D графика и физика (включая `URP`, `HDRP`, `Shader Graph`)  
-- Анимации (`Animator`, `Animation Rigging`, `Timeline`)  
+- 2D/3D графика и физика (`URP`, `HDRP`, `Shader Graph`)  
+- Анимации (`Animator`, `Timeline`)  
 - UI/UX (`UI Toolkit`, `Canvas`, анимация интерфейсов)  
-- Сетевые решения (`Photon`, `Mirror`, `Unity Netcode for GameObjects`)  
+- Сетевые решения (`Photon`, `Mirror`)  
 - Оптимизация под мобильные устройства и WebGL  
-- Процедурная генерация контента  
 - Разработка редакторских инструментов (`Editor Scripting`)
 
 **Паттерны и подходы**  
-ООП, SOLID, Dependency Injection (Zenject / VContainer), ECS (DOTS), конечные автоматы, событийно-ориентированная архитектура.
+ООП, SOLID, ECS (DOTS), Singleton, Visitor, Observer и другие.
 
 ---
 
