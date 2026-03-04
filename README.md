@@ -69,21 +69,10 @@
 
 ---
 
-## 📈 Статистика GitHub
-
-![Ваша статистика](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical)
-
----
-
 ## 📫 Как со мной связаться
 
-- Telegram: [@ваш_ник](https://t.me/ваш_ник)
-- LinkedIn: [linkedin.com/in/ваш_профиль](https://linkedin.com/in/ваш_профиль)
-- Email: [ваш.email@example.com](mailto:ваш.email@example.com)
-- Itch.io: [ваш_ник.itch.io](https://ваш_ник.itch.io)
-
+- Telegram: [@taifunblade](https://t.me/ваш_ник)
+- Email: [ваш.email@example.com](mailto:ваш) 
 ---
 
-⚡ **Интересный факт:** помимо разработки игр, увлекаюсь настольными ролевыми играми (D&D) и иногда пишу сценарии для них.  
-📄 [Скачать резюме](https://example.com/resume.pdf)
+⚡ **Интересный факт:** помимо разработки игр, увлекаюсь компьютерными играми (в основном шутеры).  
