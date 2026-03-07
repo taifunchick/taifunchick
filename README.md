@@ -72,7 +72,7 @@
 ## 📫 Как со мной связаться
 
 - Telegram: [@taifunblade](https://t.me/ваш_ник)
-- Email: [taifunchick@gmail.com](taifunchick@gmail.com) 
+- Email: [taifunchick@gmail.com]
 ---
 
 ⚡ **Интересный факт:** помимо разработки игр, увлекаюсь компьютерными играми (в основном шутеры).  
