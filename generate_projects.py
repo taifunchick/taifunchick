@@ -2,7 +2,7 @@ import requests
 import os
 
 # Ваш GitHub username
-USERNAME = "ваш_username"  # ЗАМЕНИТЕ НА ВАШ USERNAME!
+USERNAME = "taifunchick"  # ЗАМЕНИТЕ НА ВАШ USERNAME!
 TOKEN = os.getenv('GITHUB_TOKEN')  # Токен будет доступен автоматически
 
 def get_user_repos():
