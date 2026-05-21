@@ -4,8 +4,8 @@
 
 ## 📊 Статистика
 
-- **Всего проектов:** 27
-- **Языков:** 4
+- **Всего проектов:** 28
+- **Языков:** 5
 
 ---
 
@@ -125,6 +125,14 @@
 
 ---
 
+## 🌐 HTML
+
+### • [githubprojects-site-html](https://github.com/taifunchick/githubprojects-site-html)
+  📝 Нет описания
+  ⭐ 0 stars | 🕐 Обновлено: 2026-05-20
+
+---
+
 ## 📁 Vue
 
 ### • [musicplayer-app-fullstack](https://github.com/taifunchick/musicplayer-app-fullstack)
@@ -135,5 +143,5 @@
 
 
 ---
-*Автоматически обновлено: 2026-05-20 16:45:06*
+*Автоматически обновлено: 2026-05-21 02:09:03*
 *Данные берутся напрямую из GitHub API*
