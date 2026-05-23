@@ -77,7 +77,7 @@ Below are my repositories automatically grouped by language and updated daily.
 
 | Project | Description | ⭐ Stars | Updated |
 |---------|-------------|----------|---------|
-| [taifunchick](https://github.com/taifunchick/taifunchick) | No description | 0 | 2026-05-21 |
+| [taifunchick](https://github.com/taifunchick/taifunchick) | No description | 0 | 2026-05-22 |
 | [store-api-django](https://github.com/taifunchick/store-api-django) | No description | 0 | 2026-05-11 |
 | [todo-app-django](https://github.com/taifunchick/todo-app-django) | No description | 0 | 2026-05-11 |
 | [reminder-bot-aiogram](https://github.com/taifunchick/reminder-bot-aiogram) | No description | 0 | 2026-05-10 |
@@ -88,7 +88,7 @@ Below are my repositories automatically grouped by language and updated daily.
 
 | Project | Description | ⭐ Stars | Updated |
 |---------|-------------|----------|---------|
-| [taskboard](https://github.com/taifunchick/taskboard) | No description | 0 | 2026-05-21 |
+| [taskboard-app-fullstack](https://github.com/taifunchick/taskboard-app-fullstack) | No description | 0 | 2026-05-22 |
 
 
 ### 🌐 HTML
@@ -109,9 +109,9 @@ Below are my repositories automatically grouped by language and updated daily.
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taifunchick)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/taifunblade)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/taifunchick)
 
 ---
 
-*📅 Automatically updated: 2026-05-22 02:11:35*  
+*📅 Automatically updated: 2026-05-23 01:59:30*  
 *📊 Data fetched directly from GitHub API*
