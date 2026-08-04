@@ -44,6 +44,7 @@ Below are my repositories automatically grouped by language and updated daily.
 
 | Project | Description | ⭐ Stars | Updated |
 |---------|-------------|----------|---------|
+| [FootGoalAI](https://github.com/taifunchick/FootGoalAI) | No description | 0 | 2026-08-03 |
 | [TestovoeNovella](https://github.com/taifunchick/TestovoeNovella) | No description | 0 | 2026-07-06 |
 | [vfx_showcase](https://github.com/taifunchick/vfx_showcase) | No description | 0 | 2026-05-28 |
 | [passwordmanager-console-.net](https://github.com/taifunchick/passwordmanager-console-.net) | No description | 0 | 2026-05-19 |
@@ -79,18 +80,11 @@ Below are my repositories automatically grouped by language and updated daily.
 
 | Project | Description | ⭐ Stars | Updated |
 |---------|-------------|----------|---------|
-| [taifunchick](https://github.com/taifunchick/taifunchick) | No description | 1 | 2026-08-02 |
+| [taifunchick](https://github.com/taifunchick/taifunchick) | No description | 1 | 2026-08-03 |
 | [store-api-django](https://github.com/taifunchick/store-api-django) | No description | 0 | 2026-05-11 |
 | [todo-app-django](https://github.com/taifunchick/todo-app-django) | No description | 0 | 2026-05-11 |
 | [reminder-bot-aiogram](https://github.com/taifunchick/reminder-bot-aiogram) | No description | 0 | 2026-05-10 |
 | [weather-bot-aiogram](https://github.com/taifunchick/weather-bot-aiogram) | No description | 0 | 2026-05-10 |
-
-
-### 📄 Other
-
-| Project | Description | ⭐ Stars | Updated |
-|---------|-------------|----------|---------|
-| [FootGoalAI](https://github.com/taifunchick/FootGoalAI) | No description | 0 | 2026-08-02 |
 
 
 ### 📘 TypeScript
@@ -122,5 +116,5 @@ Below are my repositories automatically grouped by language and updated daily.
 
 ---
 
-*📅 Automatically updated: 2026-08-03 01:47:51*  
+*📅 Automatically updated: 2026-08-04 01:23:26*  
 *📊 Data fetched directly from GitHub API*
